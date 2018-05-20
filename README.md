@@ -19,7 +19,7 @@ I have made customisations to the very beautiful Fractal Tree design.
 <br>
 
 <p align="center">
-<img src="http://www.pywonderland.com/img/fractaltree.png" width="400"/>
+<img src="http://www.pywonderland.com/img/new-fractal-tree.png" width="400"/>
 </p>
 
 <br>
