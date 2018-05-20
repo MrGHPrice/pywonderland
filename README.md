@@ -8,13 +8,11 @@
 
 Please visit [the website for this repository](http://www.pywonderland.com) to see how to use these scripts and get more information of the math behind them.
 
-I'm building the docs so that there will be more usage & math explanations for each program.
+## New additions 
 
-The history commits are deleted (sorry for this) but will not be deleted any more.
+I have made customisations to the very beautiful Fractal Tree design.
 
-**This repository will be always under construction since there are too many interesting things in math that can be shown by code.** Pull requests, issues, questions, and suggestions are all welcomed!
-
-**Warning:** I'll not maintain support for `python<=2.7` any more, please run the code with `python>=3`.
+- [New Fractal Tree](#new-fractal-tree)
 
 ## Contents
 
@@ -223,14 +221,6 @@ The history commits are deleted (sorry for this) but will not be deleted any mor
 <br>
 
 [[Back to Top](#contents)]
-
----
-## Programs to come:
-
-- Fractals with orbit trap
-- 2D hyperbolic tilings (Escher's circle limit)
-- 3D hyperbolic honeycombs
-- Hopcroft's minimization algorithm
 
 ## Dependencies
 
