@@ -19,7 +19,7 @@ I have made customisations to the very beautiful Fractal Tree design.
 <br>
 
 <p align="center">
-<img src="https://github.com/MrGHPrice/pywonderland/blob/master/src/misc/montage.jpg?raw=true>
+<img src="https://github.com/MrGHPrice/pywonderland/blob/master/src/misc/montage.jpg">
 </p>
 
 <br>
