@@ -14,6 +14,17 @@ I have made customisations to the very beautiful Fractal Tree design.
 
 - [New Fractal Tree](#new-fractal-tree)
 
+[[Code](./src/misc/fractaltree.py)]
+
+<br>
+
+<p align="center">
+<img src="http://www.pywonderland.com/img/fractaltree.png" width="400"/>
+</p>
+
+<br>
+
+
 ## Contents
 
 - [Mandelbrot Set](#mandelbrot-set)
