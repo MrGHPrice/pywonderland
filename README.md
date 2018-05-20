@@ -14,7 +14,7 @@ I have made customisations to the very beautiful Fractal Tree design.
 
 - [New Fractal Tree](#new-fractal-tree)
 
-[[Code](./src/misc/new-fractal-tree.py)]
+[[Code](./src/misc/new-fractal-forest.py)]
 
 <br>
 
